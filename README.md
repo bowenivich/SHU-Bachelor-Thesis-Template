@@ -13,6 +13,6 @@ Documents are written in Chinese only.
 - 安装 Sublime Text 3 + LaTeX 环境
 - 下载.zip格式的模板到本地，并解压
 - 用学院给的论文模板创建封面，命名为 cover.pdf 文件保存至根目录下（替换）
-- 修改 data 文件夹下的各文件，编辑论文内容
+- 修改 data 文件夹下的.tex文件，编辑论文内容
 - 通过根目录下的 main.tex 文件添加或删去章节
 - 通过根目录下的 main.tex 文件编译
